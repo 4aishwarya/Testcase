@@ -1,0 +1,8 @@
+public void test1
+{
+@Test
+publiv void TC1
+{
+System.out.println("Test cases1");
+}
+}
