@@ -3,6 +3,11 @@ public void test1
 @Test
 publiv void TC1
 {
-System.out.println("Test cases1");
+System.out.println("Test cases1-registration");
+}
+@Test
+publiv void TC2
+{
+System.out.println("Test cases1-login");
 }
 }
