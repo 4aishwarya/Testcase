@@ -1,0 +1,13 @@
+public void testscript
+{
+@Test
+public void TC1
+{
+System.out.println("testcase1-registration");
+}
+@Test
+public void TC2
+{
+System.out.println("testcase1-login");
+}
+}
